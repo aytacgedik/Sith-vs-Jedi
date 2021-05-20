@@ -1,0 +1,19 @@
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #964b00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#canvas1 {
+  background-image: url("tmpBackground.jpg");
+  position: relative;
+  width:800px;
+  height:500px;
+  border:1px solid lightgrey;
+}
